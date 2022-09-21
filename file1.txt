@@ -1,2 +1,3 @@
 Hello, this git training1 with file1.txt
 new line1 for testing
+added a new branch called mybranch1
